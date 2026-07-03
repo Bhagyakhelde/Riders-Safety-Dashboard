@@ -5,7 +5,7 @@ A real-time monitoring dashboard for an embedded rider-safety system — built t
 **This dashboard is the software layer for a hardware safety system I designed, built, and published research on** ([IJERT Paper](#)). The embedded system uses an MQ-3 alcohol sensor, accelerometer, GPS, and GSM modules to detect drunk driving and accidents in real time. This project visualizes that data live, with automated alerts.
 
 🔗 **Live Demo:** [riders-safety-dashboard.vercel.app]
-🔗 **Hardware Project:** [link to your Advanced Rider Safety System GitHub repo]
+🔗 **Hardware Project:** [https://github.com/Bhagyakhelde/Advanced-Rider-Safety-System.git]
 
 ---
 
@@ -31,7 +31,7 @@ Most frontend projects visualize static or fake data. This dashboard is built ar
 
 ## Screenshots
 
-*(Add 2-3 screenshots or a short GIF of the dashboard in action here)*
+*()*
 
 ## Run Locally
 
