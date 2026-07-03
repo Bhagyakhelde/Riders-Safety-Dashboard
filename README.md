@@ -31,7 +31,11 @@ Most frontend projects visualize static or fake data. This dashboard is built ar
 
 ## Screenshots
 
-*()*
+### Dashboard Overview
+![Dashboard Overview](dashboard-overview.png)
+
+### Alerts & Trip History
+![Alert and Trip History](alert-trip-history.png)
 
 ## Run Locally
 
